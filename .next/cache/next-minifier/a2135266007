@@ -1,0 +1,1 @@
+{"code":"(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{Uqz1:function(n,e,i){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/car-search\",function(){return i(\"fiE7\")}])},fiE7:function(n,e,i){\"use strict\";i.r(e);var t=i(\"mXGw\"),c=i.n(t),u=i(\"bc/i\");e.default=function(){return c.a.createElement(\"div\",null,c.a.createElement(u.f,null))}}},[[\"Uqz1\",1,0]]]);"}

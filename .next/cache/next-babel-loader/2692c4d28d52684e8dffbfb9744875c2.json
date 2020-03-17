@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from 'react';\nimport { Booking } from '../components';\n\nvar BookingPayment = function BookingPayment() {\n  return React.createElement(\"div\", null, React.createElement(Booking, null));\n};\n\nexport default BookingPayment;","map":null,"metadata":{},"sourceType":"module"}
